@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#elena-hopkins-cover {
+    background-image: url("http://imgur.com/l9tYhTU.jpg");
+}
+
+#elena-hopkins-card {
+    background-image: url("http://imgur.com/eUiK0if.jpg");
+}
+
 #sophia-varella-cover {
     background-image: url("http://i.imgur.com/v9ZXh0g.jpg");
 }
